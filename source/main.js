@@ -20,4 +20,4 @@ var server=http.createServer(function(req,res){
 });
 
 server.listen(5050);
-console.log("Server Run Success")
+console.log("Server Run Success");
